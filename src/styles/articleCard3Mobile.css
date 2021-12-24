@@ -1,0 +1,28 @@
+.ArticleCard3MobileWrapper{
+    display: flex;
+    flex-direction: row;
+    font-family: Montserrat;
+    /* border: 3px dashed lawngreen; */
+    margin-top: 45px;
+}
+
+.ArticleCard3MobileWrapper img{
+    width: 90px;
+    height: 85px;
+}
+
+.ArticleCard3MobileText{
+    /* border: 2px solid black; */
+    padding-right: 25px;
+    height: 83px;
+}
+
+.ArticleCard3MobileText h4{
+    margin-top: 0;
+}
+
+.ArticleCard3MobileText p{
+    font-size: 15px;
+    color: grey;
+    margin-top: 30px;
+}

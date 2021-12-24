@@ -1,0 +1,48 @@
+.card3{
+    width: 250px;
+    height: 60px;
+    /* border: 0.5px solid mediumseagreen; */
+    display:inline-flex;
+    margin-top: 3px;
+}
+
+.card3image{
+    border-radius: 2%;
+}
+
+.head3{
+    margin-left: 6%;
+    margin-top: 1%;
+    font-weight: 600;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+.end3{
+    font-size: 10px;
+    color: #dddde3;
+    margin-left: 6%;
+}
+
+.cardindex{
+margin-right: 0;
+font-size: 45px;
+margin-top: -2px;
+color: #e0ebeb;;
+}
+
+.end3 span{
+    color: grey;
+font-weight: 600;
+}
+
+@media screen and (max-width: 600px){
+.card3image{
+    width: 70px;
+    height: 70px;
+}
+
+.head3{
+    font-size: 17px;
+}
+}

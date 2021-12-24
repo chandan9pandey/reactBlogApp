@@ -1,0 +1,88 @@
+    {
+
+    "Homecard1":{
+        "id":1,
+        "heading": "Title of vertical gallery",
+        "end": "Travel / August 21 2017",
+        "link":"/Home/1"
+    },
+
+    "HomeSideCard":{
+        "id":2,
+        "heading":"The Sound cloud You loved is doomed",
+        "end": "Travel / August 21 2017",
+        "link":"/Home/2"
+    },
+
+    "HomeCard3":{
+        "id":3,
+        "heading":"Joshua Tree Overnight Adventure",
+        "desc":"Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as a tourist destination. It has a plethora of temples and palaces",
+        "end": " / August 21 2017",
+        "link":"Home/3"
+    },
+    
+    "HomeCard4Big":{
+        "id":4,
+        "heading":"Catch waves with an adventure guide",
+        "desc":"Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-",
+        "end": " / August 21 2017"
+    },
+
+    "Homecard5":{
+        "id":5,
+        "heading":"Title of vertical gallery",
+        "end": " Travel / August 21 2017"
+    },
+
+    "HomeCard6":{
+        "id":6,
+        "heading":"Catch waves with an adventure guide",
+        "desc":"Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as a tourist destination. It has a plethora of temples and palaces"
+    },
+
+    "CategoryCard1":{
+        "id":7,
+        "heading":"Catch waves with an adventure guide",
+        "desc":"Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-",
+        "end": " / August 21 2017"
+    },
+    
+    "CategoryCard2":{
+        "id":8,
+        "heading":"Catch waves with an adventure guide",
+        "end": " / August 21 2017"
+    },
+
+    "CategoryCard3":{
+        "id":9,
+        "heading":"Catch waves with adventure guide",
+        "end": " / August 21 2017"
+    },
+
+    "ArticleCard1":{
+        "id":10,
+        "heading":"5 Ways to animate a React app.",
+        "Author":"Dmitry Nozhenko",
+        "desc1":"Animation in ReactJs is a popular topic and there are many ways to create different types of animations. Many developers create animation exclusively using css and adding classes to HTML tags. This is a great way and you should use it. If you want to create complex animations you can pay attention to GreenSock. GreenSock is the most powerful animation platform. There are also a lot of libraries, components for creating animation in React",
+        "desc2":"Let's talk about them",
+        "end": "Jan 28, 2019 . 10 min read",
+        "tag1":"React",
+        "tag2":"Javascript",
+        "tag3":"Animation"
+    },
+
+    "ArticleCard2":{
+        "id":11,
+        "heading":"Joshua Tree Overnight Adventure",
+        "Author":"Dmitry Nozhenko",
+        "end": "Aug 10 . 4 min read"
+    },
+
+    "ArticleCard3Mobile":{
+        "id":12,
+        "heading":"Performance Comparison for 5 JavaScript Object Iterations",
+        "Author":"Dmitry Nozhenko"
+    }
+    
+    }

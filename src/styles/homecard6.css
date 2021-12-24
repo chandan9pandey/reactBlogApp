@@ -1,0 +1,45 @@
+.HomeCard6{
+    width: 33%;
+    /* border: 1px dashed aqua; */
+}
+
+.HomeCard6head{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 6%;
+    color: black;
+    margin-bottom: 5px;
+    margin-top: 0;
+    padding-right: 25px;
+    padding-left: 10px;
+}
+
+.HomeCard6desc{
+    color:#AEACAC;
+    margin-top: 20px;
+    font-size: 8px;
+    margin-left: 6%;
+    line-height: 1.5;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.HomeCard6end{
+    margin-top: 50px;
+    color: #4A4A4A;
+    font-weight: 600;
+    font-size:9px;
+    margin-left: 4%;
+    padding-left: 10px;
+}
+
+.HomeCard6end span{
+    color:  #b6b6b6;
+    font-weight: 300;
+}
+
+@media screen and (max-width: 600px) {
+    .HomeCard6{
+        width: 80%;
+    }
+}

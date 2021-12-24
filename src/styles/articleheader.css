@@ -1,0 +1,41 @@
+.ArticleHeadWrapper{
+    width: 130%;
+    height: 52px;
+    margin-left: -15%;
+    margin-top: -2px;
+    box-shadow: 1px 2px 4px #E1E1E1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    /* border: 1px solid blue;  */
+}
+
+.ArticleHeaderLogo{
+    height: 32px;
+    padding-bottom: 3px;
+    margin-left: 10%;
+}
+
+.GetStarted{
+    height: 22px;
+    width:75px;
+    color: #41bd9c;
+    border: 1px solid #41bd9c;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5%;
+    margin-bottom: 2px;
+}
+
+@media screen and (max-width: 600px){
+    .ArticleHeadWrapper{
+        width: 100%;
+        margin-left: -15px;
+        position: fixed;
+        background-color: white;
+        margin-top: 0;
+    }
+}

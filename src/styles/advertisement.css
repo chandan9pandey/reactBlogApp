@@ -1,0 +1,11 @@
+.adv{
+    height: 440px;
+    width: 250px;
+    border: 1.5px solid #a6abab;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-weight: 600;
+}

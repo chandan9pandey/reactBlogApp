@@ -1,0 +1,228 @@
+.HomeMainContainer{
+    width: 100%;
+height: 2400px;
+display: flex;
+flex-direction: column;
+position: relative;
+/* border:1px solid violet; */
+}
+
+.HomeCard3mobile{
+    display: none;
+}
+
+.HomeContainer1{
+    height: 1990px;
+    /* border: 4px solid red; */
+display: flex;
+justify-content: space-between;
+}
+
+.HomeBlogPage{
+    margin-top: 20px;
+    height: 1200px;
+    width: 67%;
+    /* border: 1px solid black; */
+} 
+
+.HomeSide{
+    margin-top: 20px;
+    height: 1200px;
+    width: 32%;
+    /* border: 1px solid black; */
+}
+
+.sideImages{
+    height: 320px;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+}
+
+.HomeheadMain{
+    position: absolute;
+    color: white;
+    font-size:22px;
+    margin-top: 25%;
+    margin-left: 5%;
+}
+
+.homeEnd{
+    position: absolute;
+    color:#babad1;
+    font-size:10px;
+    margin-top: 32%;
+    margin-left: 5%;
+}
+
+.Homecard1image{
+    border-radius: 1%;
+    position: relative;
+}
+
+.Homecard1{
+    /* border: 2px solid turquoise; */
+    height: 320px;
+    width: 100%;
+    display: flex;
+}
+
+.HomeCard3Wrapper{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content:space-between;
+    margin-right: 9px;
+}
+
+.SideHomeCard3Wrapper{
+    /* border: 2px solid black; */
+    display: flex;
+    margin-right: 0;
+    padding-right: 0;
+    margin-top: 18px;
+    justify-content: flex-end;
+}
+
+.HomeHR{
+    width: 97%;
+    opacity: 70%;
+    border: 1px solid #e0ebeb;
+    background-color: #e0ebeb;
+    margin-top: 2%;
+    margin-left: 0;
+}
+
+.Homecard5{
+    margin-top: 0px;
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Homeheadcard5{
+    position: absolute;
+    color: white;
+    font-weight: 400;
+    font-size:25px;
+    margin-top: 12%;
+}
+
+.homeEndcard5{
+    position: absolute;
+    color:white;
+    font-size:11px;
+    margin-top: 25%;
+}
+
+.lasthr{
+    width: 102%;
+    opacity: 70%;
+    border: 1px solid #e0ebeb;
+    background-color: #e0ebeb;
+}
+
+.HomeCard6wrapper{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.lasthr2{
+    border: 0.7px solid #e0ebeb;
+    background-color: #e0ebeb;
+    height: 230px;
+    margin-top: 0%;
+}
+
+.topPostContainerMobile{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .HomeMainContainer{
+        height: 3000px;
+    }
+    .HomeSide{
+        display: none;
+    }
+
+    .Homecard1image{
+        width: 150%;
+        height: 100%;
+    }
+
+    .Homecard1{
+        height: 400px;
+    }
+
+    .HomeheadMain{
+        margin-top: 70%;
+    }
+
+    .homeEnd{
+        margin-top: 90%;
+    }
+
+    .HomeCard3mobile{
+        display: block;
+    }
+
+    .HomeCard3Wrapper{
+        /* border: 1px solid brown; */
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 150%;
+    }
+
+    .HomeCard6wrapper{
+        margin-top: 2000px;
+    }
+
+    .lasthr{
+        display: none;
+    }
+
+    .homecard4big{
+        display: none;
+    }
+
+    .Homecard5{
+        display: none;
+    }
+
+    .topPostContainerMobile{
+        margin-left: 50px;
+        display: block;
+        width: 100%;
+        /* border: 2px solid black; */
+    }
+
+    .topPostContainerMobile h2{
+        margin-left: -50px;
+    }
+
+    .topPostContainerMobile .headUnderline{
+        margin-left: -50px;
+        margin-bottom: 60px;
+    }
+
+    .HomeCard6wrapper{
+        margin-top: 2040px;
+        /* border: 2px solid blue; */
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lasthr2{
+        border: 0.7px solid #e0ebeb;
+        background-color: #e0ebeb;
+        width:90%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        height: 1px;
+    }
+}

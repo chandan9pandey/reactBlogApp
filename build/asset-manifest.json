@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.634fcb90.chunk.css",
+    "main.js": "/static/js/main.08d1a4f0.chunk.js",
+    "main.js.map": "/static/js/main.08d1a4f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86cb45e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86cb45e7.js.map",
+    "static/js/2.69352391.chunk.js": "/static/js/2.69352391.chunk.js",
+    "static/js/2.69352391.chunk.js.map": "/static/js/2.69352391.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.634fcb90.chunk.css.map": "/static/css/main.634fcb90.chunk.css.map",
+    "static/js/2.69352391.chunk.js.LICENSE.txt": "/static/js/2.69352391.chunk.js.LICENSE.txt",
+    "static/media/ArticlePagesidefixedimage.9332fce4.png": "/static/media/ArticlePagesidefixedimage.9332fce4.png",
+    "static/media/GujaratImage.89ae8756.jpg": "/static/media/GujaratImage.89ae8756.jpg",
+    "static/media/MountainImage.c2cbd69b.jpg": "/static/media/MountainImage.c2cbd69b.jpg",
+    "static/media/ReactAnimation.6c43ae50.png": "/static/media/ReactAnimation.6c43ae50.png",
+    "static/media/ReactArticleImage2.dd440eb9.png": "/static/media/ReactArticleImage2.dd440eb9.png",
+    "static/media/maleavatar.967774e1.jpg": "/static/media/maleavatar.967774e1.jpg",
+    "static/media/soundcloud.007aab78.jpg": "/static/media/soundcloud.007aab78.jpg",
+    "static/media/temple.95bea20a.jpg": "/static/media/temple.95bea20a.jpg",
+    "static/media/verticalgallery.e42b6601.jpg": "/static/media/verticalgallery.e42b6601.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cb45e7.js",
+    "static/js/2.69352391.chunk.js",
+    "static/css/main.634fcb90.chunk.css",
+    "static/js/main.08d1a4f0.chunk.js"
+  ]
+}

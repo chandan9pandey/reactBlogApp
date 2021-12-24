@@ -1,0 +1,55 @@
+.ArticleCard2Wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    /* border:1px solid blue; */
+}
+
+.AuthorDetails{
+    display: flex;
+    /* border: 1px dashed midnightblue; */
+    flex-direction: row;
+    margin-top: 5px;
+}
+
+.top{
+    font-size: 9px;
+    color: gray;
+}
+
+.ArticleCard2Image{
+    height: 160px;
+    width: 100%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    margin-top: 5px;
+}
+
+.ArticleCard2head
+{
+    font-weight: 600;
+    font-size: 17px;
+    padding-right: 60px;
+    color:  #404040;
+    margin-bottom: 10px;
+}
+
+.AuthorProfilePicture{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.Article2CardText{
+    margin-left: 15px;
+    font-size: 9px;
+}
+
+.AuthorName{
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+.ArticleCard2end{
+    color: gray;
+}
